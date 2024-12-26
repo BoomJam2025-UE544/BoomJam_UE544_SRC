@@ -7,7 +7,10 @@
 		{
 			"Name": "BoomJam_UE544_SRC",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
