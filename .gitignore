@@ -1,14 +1,15 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
+# UE Project Base
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vsconfig
 *.sln
-*.suo
-*.xcodeproj
-*.xcworkspace
+# XG Package
+PackageTest/
+# lfs
+hooks/
+lfs/
